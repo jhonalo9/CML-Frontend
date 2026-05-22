@@ -1,4 +1,6 @@
 // app/estudiante/pago-manual/cursos-multiples/page.tsx
+
+'use client';
 import { Suspense } from 'react';
 import PagoManualMultiplePage from './PagoManualMultipleContent';
 import { Card, CardContent } from '@/components/ui/card';

@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 // Servicios API
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://cml-backend-1wt6.onrender.com/api';
 
 // Interfaces TypeScript basadas en tu backend
 interface Usuario {

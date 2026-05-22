@@ -33,7 +33,7 @@ interface Inscripcion {
   };
 }
 
-export default function PagoManualMultiplePage() {
+export default function PagoManualMultipleContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const inscripcionIdsParam = searchParams.get('inscripciones');
@@ -584,8 +584,4 @@ export default function PagoManualMultiplePage() {
       </div>
     </div>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 96cf58b8dcf4eea4fd6730b517146d98d4014f2c

@@ -26,8 +26,4 @@ export default function Page() {
       <PagoManualMultiplePage />
     </Suspense>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 96cf58b8dcf4eea4fd6730b517146d98d4014f2c
